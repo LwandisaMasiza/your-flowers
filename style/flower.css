@@ -16,3 +16,13 @@
   font-weight: 700;
   font-style: normal;
 }
+
+.hero{background: #FFE6E8;
+text-align: center;
+}
+
+.hero p{margin: 0;
+  color: #2B1B17;
+  font-size: 36px;
+  font-weight: bold;
+}
