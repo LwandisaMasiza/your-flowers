@@ -17,12 +17,14 @@
   font-style: normal;
 }
 
-.hero{background: #FFE6E8;
-text-align: center;
+.hero {
+  background-color: bisque;
+  text-align: center;
 }
 
-.hero p{margin: 0;
-  color: #2B1B17;
+.hero p {
+  margin: 0;
+  color: brown;
   font-size: 36px;
   font-weight: bold;
 }
